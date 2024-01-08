@@ -13,7 +13,8 @@ SET time_zone = "+00:00";
 
 -- Database Oluşturma
 
-CREATE DATABASE bby361_zhdcive; 
+
+CREATE DATABASE bby361_zhdcive;
 USE bby361_zhdcive;
 
 
@@ -23,7 +24,7 @@ USE bby361_zhdcive;
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Veritabanı: `bby361_zahdcive.sql`
+-- Veritabanı: `bby361_zhdcive.sql`
 --
 
 -- --------------------------------------------------------
