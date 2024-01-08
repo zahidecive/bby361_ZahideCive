@@ -13,8 +13,8 @@ SET time_zone = "+00:00";
 
 -- Database Oluşturma
 
-CREATE DATABASE bby361_zahdcive; 
-USE bby361_zahdcive;
+CREATE DATABASE bby361_zhdcive; 
+USE bby361_zhdcive;
 
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
